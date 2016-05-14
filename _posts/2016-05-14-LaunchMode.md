@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Activity的启动模式"
+categories: 
+ - 博客
+date:   2016-05-14 21:00:13
+nocomments: false
+---
+
 #Activity的启动模式
 #### 导语：
 _Activity的启动模式是初学者最头疼的地方了，形形色色的启动模式和标志位实在是太容易被混淆了，但是Activity作为四大组件之首，它的的确确非常重要，有时候为了满足项目的需求，就必须使用Activity的启动模式，所以我们要搞清楚它的启动模式和标志位。_
