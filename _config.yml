@@ -1,7 +1,7 @@
 # Site settings
 title: Another Blog
-url: "sourfeng.cn"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "sourfeng.cn" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
+url: "http://lipengfeng.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 #timezone: Asia/Chongqing
 description: >
   One or more sentences introducing this blog.
